@@ -28,5 +28,5 @@ jobs:
         with:
           name: app-debug-apk
           path: app/build/outputs/apk/debug/*.apk
-concurrency: 
+
 
